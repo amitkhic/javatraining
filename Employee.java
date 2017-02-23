@@ -10,8 +10,6 @@ public class Employee {
    public void myMethod(String name, String city, double salary) {       
        System.out.println("Name    : " + name);
        System.out.println("Address : " + city);
-       System.out.println("Salary  : $" + salary);
-	System.out.println("test");
-   
+       System.out.println("Salary  : $" + salary);   
    }
 }
